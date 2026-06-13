@@ -1,17 +1,15 @@
 # UI Images
 
-Place the app UI images here before publishing the repository.
+The root README renders these app UI images directly.
 
 Use these exact filenames:
 
-- `home.png`
-- `learn.png`
-- `alphabet.png`
-- `quran.png`
-- `hadith-books.png`
-- `dua-categories.png`
-- `dua-collection.png`
-- `salah-guide.png`
-- `profile.png`
-
-GitHub will only display UI images in the root README after the real image files are committed.
+- `home.jpg`
+- `learn.jpg`
+- `alphabet.jpg`
+- `quran.jpg`
+- `hadith-books.jpg`
+- `dua-categories.jpg`
+- `dua-collection.jpg`
+- `salah-guide.jpg`
+- `profile.jpg`

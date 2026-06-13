@@ -4,19 +4,17 @@ Neki is an Islamic learning and habit app built with Expo React Native. It combi
 
 ## UI Preview
 
-The UI images should be kept in `docs/ui`. GitHub can only display them after the actual image files are added to the repository.
+| Home | Learn | Arabic Alphabet |
+| --- | --- | --- |
+| <img src="docs/ui/home.jpg" alt="Home UI" width="240" /> | <img src="docs/ui/learn.jpg" alt="Learn UI" width="240" /> | <img src="docs/ui/alphabet.jpg" alt="Arabic Alphabet UI" width="240" /> |
 
-| UI | File |
-| --- | --- |
-| Home | `docs/ui/home.png` |
-| Learn | `docs/ui/learn.png` |
-| Arabic Alphabet | `docs/ui/alphabet.png` |
-| Quran | `docs/ui/quran.png` |
-| Hadith Books | `docs/ui/hadith-books.png` |
-| Dua Categories | `docs/ui/dua-categories.png` |
-| Dua Collection | `docs/ui/dua-collection.png` |
-| Salah Guide | `docs/ui/salah-guide.png` |
-| Profile | `docs/ui/profile.png` |
+| Quran | Hadith Books | Dua Categories |
+| --- | --- | --- |
+| <img src="docs/ui/quran.jpg" alt="Quran UI" width="240" /> | <img src="docs/ui/hadith-books.jpg" alt="Hadith Books UI" width="240" /> | <img src="docs/ui/dua-categories.jpg" alt="Dua Categories UI" width="240" /> |
+
+| Dua Collection | Salah Guide | Profile |
+| --- | --- | --- |
+| <img src="docs/ui/dua-collection.jpg" alt="Dua Collection UI" width="240" /> | <img src="docs/ui/salah-guide.jpg" alt="Salah Guide UI" width="240" /> | <img src="docs/ui/profile.jpg" alt="Profile UI" width="240" /> |
 
 ## Features
 
